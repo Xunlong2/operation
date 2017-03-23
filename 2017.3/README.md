@@ -44,9 +44,9 @@
 
 ### 2017.3.6
 
-[陈宁交易总结](./gzMichael/gzMichael-20170301.md)
+[陈宁交易总结](./gzMichael/gzMichael-20170306.md)
 
-[董凯梁交易总结](./kanjianjiuhao/20170301/20170301.md)
+[董凯梁交易总结](./kanjianjiuhao/20170306/20170306.md)
 
 ------
 
