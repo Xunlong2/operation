@@ -1,4 +1,4 @@
-## [返回根目录](../)
+## [返回根目录](https://github.com/Xunlong2/operation)
 
 # 2017年2月份交易总结目录
 
@@ -100,4 +100,4 @@
 
 [陈锦庭交易总结](./onetaste2016/20170228/陈锦庭2017.02.28.md)
 
-## [返回根目录](../)
+## [返回根目录](https://github.com/Xunlong2/operation)
